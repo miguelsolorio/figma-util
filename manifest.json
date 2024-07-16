@@ -1,0 +1,27 @@
+{
+  "name": "Figma Utils",
+  "id": "1387854693699951523",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "menu": [
+    {
+      "name": "Add Auto Layout",
+      "command": "add-auto-layout"
+    },
+    {
+      "name": "Add States",
+      "command": "add-states"
+    }
+  ]
+}
